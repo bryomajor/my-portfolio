@@ -68,3 +68,12 @@ table {
 .progress-bar {
     background-color: #dc7f7f;
 }
+
+.top {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.height {
+    height: 300px;
+}
