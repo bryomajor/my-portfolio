@@ -82,6 +82,15 @@ ol {
     padding: 10% 0 0 25%;
 }
 
+ol li a {
+    color: black;
+}
+
+ol li a:hover {
+    color: #dc7f7f;
+    text-decoration: none;
+}
+
 .placeholder {
     background-color: #dc7f7f;
     height: 250px;
