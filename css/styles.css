@@ -64,3 +64,7 @@ table {
 .nav-red {  
     background-color: #dc7f7f !important;
 }
+
+.progress-bar {
+    background-color: #dc7f7f;
+}
