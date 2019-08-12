@@ -77,3 +77,16 @@ table {
 .height {
     height: 300px;
 }
+
+ol {
+    padding: 10% 0 0 25%;
+}
+
+.placeholder {
+    background-color: #dc7f7f;
+    height: 250px;
+}
+
+#projects {
+    margin-top: 5%;
+}
