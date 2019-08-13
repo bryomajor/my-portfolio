@@ -83,21 +83,21 @@ table ul {
     height: 300px;
 }
 
-ol {
-    padding: 10% 0 0 25%;
+h5 {
+    padding: 10% 0 0 12%;
 }
 
-ol li a {
+h5 a {
     color: black;
 }
 
-ol li a:hover {
+h5 a:hover {
     color: #dc7f7f;
     text-decoration: none;
 }
 
 .placeholder {
-    background-color: #dc7f7f;
+    margin-top: 10%;
     height: 250px;
 }
 
@@ -115,4 +115,12 @@ ol li a:hover {
 .button:hover {
     background-color: black;
     color: white;
+}
+
+.works {
+    margin-left: 60px;
+}
+
+.works-right {
+    padding: 10% 0 0 0;
 }
